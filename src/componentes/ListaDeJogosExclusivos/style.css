@@ -8,6 +8,38 @@
     text-align: center;
   }
 
+  .container-input {
+    width: 100%;
+    max-width: 425px;
+    margin: 0 auto;
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    border-radius: 20px;
+  }
+
+  .container-input img {
+    width: 35px;
+  }
+
+  .container-input input {
+    padding-left: 10px;
+    width: 90%;
+    border: 0;
+    outline: none;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  .container-input input::placeholder {
+    text-decoration: underline;
+    color: #9a9a9a;
+  }
+
   .container-btns {
     padding: 10px;
     background-color: black;
