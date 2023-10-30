@@ -1,6 +1,5 @@
 import './style.css';
 import Lupa from "../../assets/lupa.png"
-import { jogosExclusivos } from '../../dados';
 import ItemJogos from '../ItemJogos';
 import { useState } from 'react';
 import { filtrarJogo, buscarJogo, retornarJogos } from '../../servico';
