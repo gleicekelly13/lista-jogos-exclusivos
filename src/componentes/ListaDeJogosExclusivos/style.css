@@ -8,6 +8,48 @@
     text-align: center;
   }
 
+  .container-btns {
+    padding: 10px;
+    background-color: black;
+    border-radius: 8px;
+    width: 100%;
+    max-width: 425px;
+    margin: 0 auto;
+  
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  
+.container-btns button {
+    padding: 15px 0;
+    flex: 1 1 100px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 16px;
+    border: 0;
+    border-radius: 4px;
+    color: white;
+  }
+
+  .container-btns button:nth-child(1) {
+    background-color: green;
+  }
+
+  .container-btns button:nth-child(2) {
+    background-color: blue;
+  }
+
+  .container-btns button:nth-child(3) {
+    background-color: red;
+  }
+
+  .container-btns button:nth-child(4) {
+    color: black;
+  }
+
+
   .container-jogos {
     width: 100%;
     max-width: 425px;
