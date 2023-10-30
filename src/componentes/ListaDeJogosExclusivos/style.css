@@ -7,3 +7,12 @@
     gap: 30px;
     text-align: center;
   }
+
+  .container-jogos {
+    width: 100%;
+    max-width: 425px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
