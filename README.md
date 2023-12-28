@@ -10,6 +10,10 @@
 
 ## :iphone: Mobile design
 <br>
+<div align = "center">
+<img src = "https://github.com/gleicekelly13/lista-jogos-exclusivos/assets/80974593/b7cbf4cd-7ab4-40bb-a8da-73d12808f347" width = "300" />
+</div>
+<br>
 
 # Getting Started with Create React App
 
