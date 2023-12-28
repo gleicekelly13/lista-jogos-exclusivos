@@ -3,6 +3,10 @@
 
 ## :desktop_computer: Desktop design
 <br>
+<div align = "center">
+<img src = "https://github.com/gleicekelly13/lista-jogos-exclusivos/assets/80974593/754a014f-8f37-40bc-93cd-5d174e222c2a" width = "500" />
+</div>
+<br>
 
 # Getting Started with Create React App
 
