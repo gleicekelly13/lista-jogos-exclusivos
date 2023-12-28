@@ -1,6 +1,9 @@
 <h1 align = "center">Lista de jogos exclusivos</h1>
 <br>
 
+## :desktop_computer: Desktop design
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
