@@ -17,6 +17,9 @@
 <br>
 
 <h2 align="center">:hourglass: Status do projeto </h2>
+<h4>:white_check_mark: Desktop - FINALIZADO :white_check_mark: </h4>
+<h4>:white_check_mark: Mobile - FINALIZADO :white_check_mark: </h4>
+<br>
 
 # Getting Started with Create React App
 
