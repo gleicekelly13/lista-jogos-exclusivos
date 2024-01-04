@@ -24,6 +24,7 @@
 <h2 align="center">:hammer: Funcionalidades do projeto </h2>
 <ul>
   <li>A aplicação tem 4 botões e 12 jogos listados na coleção de dados; </li>
+  <li>Os botões com os nomes dos jogos permitem que o usuário filtre os jogos listados conforme a plataforma; </li>
 </ul>
 <br>
 
