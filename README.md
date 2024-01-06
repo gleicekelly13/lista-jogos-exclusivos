@@ -30,9 +30,10 @@
   <li>A busca funciona tanto para nomes completos quanto para os nomes digitados de formas parciais, 
     o resultado da busca independe das letras serem maiúsculas ou minúsculas;</li>
   <li>O botão "Limpar Filtro" permite que o usuário liste novamente todos os jogos.</li>
-  
 </ul>
 <br>
+
+<h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
 
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
 <p>HTML5</p>
