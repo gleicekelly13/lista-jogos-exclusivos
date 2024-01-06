@@ -34,6 +34,9 @@
 <br>
 
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
+<ul>
+  <li>Utilização do método Array.map para percorrer uma coleção de dados; </li>
+</ul>
 
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
 <p>HTML5</p>
