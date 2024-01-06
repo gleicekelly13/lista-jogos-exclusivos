@@ -26,6 +26,7 @@
 <ul>
   <li>A aplicação tem 4 botões e 12 jogos listados na coleção de dados; </li>
   <li>Os botões com os nomes dos jogos permitem que o usuário filtre os jogos listados conforme a plataforma; </li>
+  <li>O campo de busca permite ao usuário buscar por jogos, digitando o nome do jogo ou o nome da plataforma;</li>
   <li>O botão "Limpar Filtro" permite que o usuário liste novamente todos os jogos.</li>
 </ul>
 <br>
