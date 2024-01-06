@@ -1,5 +1,6 @@
 <h1 align = "center">Lista de jogos exclusivos</h1>
 <h2 align="center">:page_facing_up: Descrição do projeto</h2>
+<p>Projeto desenvolvido no curso de React da Devmedia. Uma lista interativa de jogos, que possibilita ao usuário filtrar os jogos listados e também buscar os jogos digitando no campo de busca.</p>
 <br>
 
 ## :desktop_computer: Desktop design
