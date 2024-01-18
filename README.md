@@ -49,6 +49,12 @@
 <p>REACT</p>
 <br>
 
+# :sunglasses: Desenvolvedora
+
+- GitHub - [GleiceKelly](https://github.com/gleicekelly13)
+- LinkedIn - [Gleice Kelly Oliveira](https://www.linkedin.com/in/gleicekelly13/)
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
