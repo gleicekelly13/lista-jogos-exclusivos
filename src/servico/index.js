@@ -7,8 +7,8 @@ export const retornarJogos = () => {
 export const buscarJogo = (textoDigitado) => {
     return jogosExclusivos.filter (
         (jogo) => 
-        jogo.nome.toLocaleLowerCase().includes(textoDigitado.toLocaleLowerCase()) ||
-        jogo.plataforma.toLocaleLowerCase().includes(textoDigitado.toLocaleLowerCase())
+        jogo.nome.toLowerCase().includes(textoDigitado.toLowerCase()) ||
+        jogo.plataforma.LowerCase().includes(textoDigitado.toLowerCase())
     );
 }
 
