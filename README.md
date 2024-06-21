@@ -43,6 +43,7 @@
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
 <p>HTML5</p>
 <p>CSS3</p>
+<p>JAVASCRIPT</p>
 <p>REACT</p>
 <br>
 
